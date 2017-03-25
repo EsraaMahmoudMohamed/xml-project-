@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employee.dtd">
+<employees><employee><name>amal</name><gender>female</gender><phone>3621566</phone><email>amal@yahoo.com</email></employee><employee><name>esraa</name><gender>female</gender><phone>0123544487844</phone><email>esraa@yahoo.com</email></employee></employees>

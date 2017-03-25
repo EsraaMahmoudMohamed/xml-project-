@@ -1,0 +1,6 @@
+ Using :PHP libraries for XML Manipulation.
+Edit and Delete buttons :action required for the current node.
+Prev and next buttons: To navigate through your XML nodes and display its data per each click.
+Search button: By name or email.
+Insert button: Add node to the XML file.
+Validate your XML file by DTD schema ( XSD schema is bounus )
